@@ -5,6 +5,7 @@ So, follow the steps
 
 In cmd/terminal
 pip install pipwin
+
 pipwin install pyaudio
 
 Go to the folder location (PyAudio-0.2.11-cp310-cp310-win_amd64.whl) in cmd and
